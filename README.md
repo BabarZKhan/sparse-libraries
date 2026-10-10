@@ -1,2 +1,22 @@
 # sparse-libraries
 resources for open-source sparse libraries
+
+- [SuiteSparse](https://github.com/DrTimothyAldenDavis/SuiteSparse) (UMFPACK, CHOLMOD, KLU, SPQR, **CSparse**, CXSparse, AMD/COLAMD)
+- [SuperLU](https://github.com/xiaoyeli/superlu) / [SuperLU_MT](https://github.com/xiaoyeli/superlu_mt) / [SuperLU_DIST](https://github.com/xiaoyeli/superlu_dist)
+- [MUMPS](https://mumps-solver.org/) (official site); related repositories: [scivision/mumps](https://github.com/scivision/mumps), [coin-or-tools/ThirdParty-Mumps](https://github.com/coin-or-tools/ThirdParty-Mumps)
+- [PaStiX](https://gitlab.inria.fr/solverstack/pastix) (Inria)
+- [Eigen](https://gitlab.com/libeigen/eigen) (SparseLU, SparseQR, SimplicialLLT, SimplicialLDLT)
+- [Scotch / PT-Scotch](https://gitlab.inria.fr/scotch/scotch)
+- [METIS](https://github.com/KarypisLab/METIS) / [ParMETIS](https://github.com/KarypisLab/ParMETIS) (requires [GKlib](https://github.com/KarypisLab/GKlib))
+- [STRUMPACK](https://github.com/pghysels/STRUMPACK) (LBNL)
+- [SPRAL SSIDS](https://github.com/ralna/spral) (STFC Rutherford Appleton Laboratory)
+- [symPACK](https://github.com/symPACK/symPACK) (parallel sparse Cholesky solver)
+- [QDLDL](https://github.com/osqp/qdldl) (used by [OSQP](https://github.com/osqp/osqp); Rust port inside [Clarabel.rs](https://github.com/oxfordcontrol/Clarabel.rs))
+- [Trilinos](https://github.com/trilinos/Trilinos) (Amesos2, ShyLU-Basker, ShyLU-Tacho)
+- [PETSc](https://gitlab.com/petsc/petsc) ([GitHub mirror](https://github.com/petsc/petsc))
+- [faer](https://github.com/sarah-quinones/faer-rs) (Rust)
+- [SparseArrays.jl](https://github.com/JuliaSparse/SparseArrays.jl) / [LDLFactorizations.jl](https://github.com/JuliaSmoothOptimizers/LDLFactorizations.jl) / [Pardiso.jl](https://github.com/JuliaSparse/Pardiso.jl) (Julia)
+- [scikit-umfpack](https://github.com/scikit-umfpack/scikit-umfpack) / [PyMUMPS](https://github.com/pymumps/pymumps) / [SciPy](https://github.com/scipy/scipy) (Python)
+- [SPOOLES](https://netlib.org/linalg/spooles/) (legacy)
+- [TAUCS](https://www.tau.ac.il/~stoledo/taucs/) (legacy)
+- [NVIDIA cuDSS samples](https://github.com/NVIDIA/CUDALibrarySamples) (samples only; cuDSS itself is closed-source)
